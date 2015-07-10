@@ -1,0 +1,6 @@
+D:\source_code\1_Learn\csharp\generic\Generic Function\bin\Debug\Generic Function.exe.config
+D:\source_code\1_Learn\csharp\generic\Generic Function\bin\Debug\Generic Function.exe
+D:\source_code\1_Learn\csharp\generic\Generic Function\bin\Debug\Generic Function.pdb
+D:\source_code\1_Learn\csharp\generic\Generic Function\obj\Debug\Generic Function.csprojResolveAssemblyReference.cache
+D:\source_code\1_Learn\csharp\generic\Generic Function\obj\Debug\Generic Function.exe
+D:\source_code\1_Learn\csharp\generic\Generic Function\obj\Debug\Generic Function.pdb
